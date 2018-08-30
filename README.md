@@ -19,8 +19,8 @@ Spring Boot Application Excecution
 1)	Download TravelExpenseManager project from the shared location
 2)	Go to command prompt
 3)	Go to TravelExpenseManager project root folder
-4)	Execute run.cmd
-5)	After executing run.cmd or run.sh based on the OS so that it will build and start the application in the respective OS.
+4)	Execute run.cmd or run.sh depends on your OS
+5)	After executing run.cmd or run.sh based on the OS so that it will build and start the application in the respective OS
 6)  Go to Spring Boot Application URL - http://localhost:9080/expenses
 7)  You will get a login page once you click on the above link
 8)  Login to the application using admin/admin or jagadish/jagadish
