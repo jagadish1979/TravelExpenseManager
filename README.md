@@ -33,11 +33,11 @@ Perform end to end functional testing basing on functionality availbale on the a
 
 Technologies Used
 -----------------
-Java 8 Version
-Spring Boot - Microservices 
-Angular JS - Javascript Framework
-Bootstrap - UI framework
-Maven - Dependency Management
+1) Java 8 Version
+2) Spring Boot - Microservices 
+3) Angular JS - Javascript Framework
+4) Bootstrap - UI framework
+5) Maven - Dependency Management
 
 Authors
 -------
